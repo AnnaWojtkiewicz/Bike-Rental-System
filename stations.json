@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Rynek",
+        "location": "Wrocław",
+        "capacity": 5
+    },
+    {
+        "name": "Plac Grunwaldzki",
+        "location": "Wrocław",
+        "capacity": 5
+    },
+    {
+        "name": "Dworzec Główny",
+        "location": "Wrocław",
+        "capacity": 5
+    }
+]

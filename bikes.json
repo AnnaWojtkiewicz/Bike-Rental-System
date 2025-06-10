@@ -1,0 +1,7 @@
+[
+    { "type": "miejski", "station_index": 0 },
+    { "type": "górski", "station_index": 0 },
+    { "type": "elektryczny", "station_index": 1 },
+    { "type": "miejski", "station_index": 2 },
+    { "type": "górski", "station_index": 2 }
+]
